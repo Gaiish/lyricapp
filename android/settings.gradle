@@ -1,0 +1,3 @@
+rootProject.name = 'lyriApp'
+
+include ':app'
